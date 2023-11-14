@@ -32,7 +32,6 @@ android {
             dirs 'libs'
         }
     }
-    ndkVersion '20.0.5594570'
 }
 
 dependencies {
