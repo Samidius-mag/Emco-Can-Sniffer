@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CanBusDemo</string>
+    <string name="app_name">EmcoCanSniffer</string>
     <string name="show_name">Receive Canbus Data</string>
     <string name="all_recv_count">AllReceiveCount:</string>
     <string name="error_count">ErrorCount:</string>

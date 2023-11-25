@@ -1,4 +1,4 @@
-package com.android.canbusdemo;
+package com.android.emcocansniffer;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -54,10 +54,10 @@ public class MyEditText extends EditText {
                     displayCount = recvCount;
                     for (int i = 0; i < recvCount; i++) {
                         if (list[i].ID >= 0) {
-                            buf.append(list[i].FF==0?"      Standard  ":"      Extend      ");
-                            buf.append(list[i].RTR==0?"          Data            ":"          Remote       ");
+ //                           buf.append(list[i].FF==0?"      Standard  ":"      Extend      ");
+ //                           buf.append(list[i].RTR==0?"          Data            ":"          Remote       ");
                             buf.append("            ").append(String.format("%08x", list[i].ID)).append("            ");
-                            buf.append("            ").append(list[i].DLC).append("                             ");
+ //                           buf.append("            ").append(list[i].DLC).append("                             ");
                             buf.append(String.format("%02x", list[i].data0)).append(" ");
                             buf.append(String.format("%02x", list[i].data1)).append(" ");
                             buf.append(String.format("%02x", list[i].data2)).append(" ");
@@ -72,10 +72,10 @@ public class MyEditText extends EditText {
                 }else {
                     for (int i=displayCount; i<1000; i++){
                         if (list[i].ID >= 0) {
-                            buf.append(list[i].FF==0?"      Standard  ":"      Extend      ");
-                            buf.append(list[i].RTR==0?"          Data            ":"          Remote       ");
+  //                          buf.append(list[i].FF==0?"      Standard  ":"      Extend      ");
+  //                          buf.append(list[i].RTR==0?"          Data            ":"          Remote       ");
                             buf.append("            ").append(String.format("%08x", list[i].ID)).append("            ");
-                            buf.append("            ").append(list[i].DLC).append("                             ");
+  //                          buf.append("            ").append(list[i].DLC).append("                             ");
                             buf.append(String.format("%02x", list[i].data0)).append(" ");
                             buf.append(String.format("%02x", list[i].data1)).append(" ");
                             buf.append(String.format("%02x", list[i].data2)).append(" ");
@@ -101,9 +101,9 @@ public class MyEditText extends EditText {
     public void setCanBusData(int FF, int RTR, int DLC, int ID, int[] data){
         synchronized (mContext) {
             isEnable = true;
-            list[recvCount].FF = FF;
-            list[recvCount].RTR = RTR;
-            list[recvCount].DLC = DLC;
+  //          list[recvCount].FF = FF;
+  //          list[recvCount].RTR = RTR;
+  //          list[recvCount].DLC = DLC;
             list[recvCount].ID = ID;
             list[recvCount].data0 = data[0];
             list[recvCount].data1 = data[1];
@@ -122,9 +122,9 @@ public class MyEditText extends EditText {
     }
 
     class CanBusData{
-        int FF;
-        int RTR;
-        int DLC;
+  //      int FF;
+  //      int RTR;
+  //      int DLC;
         int ID;
 //        int[] data;
         int data0;

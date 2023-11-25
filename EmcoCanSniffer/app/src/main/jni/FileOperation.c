@@ -122,12 +122,12 @@ int write_to_file(int FF, int RTR, int ID, int DLC, int *data){
     return 0;
 }
 
-JNIEXPORT jint JNICALL Java_com_android_canbusdemo_FileHelper_open
+JNIEXPORT jint JNICALL Java_com_android_emcocansniffer_FileHelper_open
   	(JNIEnv *env, jclass thiz){
 	return openLogSendFile();
 }
 
-JNIEXPORT jint JNICALL Java_com_android_canbusdemo_FileHelper_write
+JNIEXPORT jint JNICALL Java_com_android_emcocansniffer_FileHelper_write
         (JNIEnv *env, jclass thiz, jint FF, jint RTR, jint ID, jint DLC, jintArray data){
     int *dataArr = (*env)->GetIntArrayElements(env, data, 0);
     if (dataArr == NULL){
@@ -139,7 +139,7 @@ JNIEXPORT jint JNICALL Java_com_android_canbusdemo_FileHelper_write
     return ret;
 }
 
-JNIEXPORT int JNICALL Java_com_android_canbusdemo_FileHelper_close
+JNIEXPORT int JNICALL Java_com_android_emcocansniffer_FileHelper_close
   	(JNIEnv *env, jobject thiz){
 	return closeLogSendFile();
 }

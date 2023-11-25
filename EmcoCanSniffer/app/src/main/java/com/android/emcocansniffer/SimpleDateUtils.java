@@ -1,4 +1,4 @@
-package com.android.canbusdemo;
+package com.android.emcocansniffer;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

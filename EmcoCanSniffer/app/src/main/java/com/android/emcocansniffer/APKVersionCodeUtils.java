@@ -1,4 +1,4 @@
-package com.android.canbusdemo;
+package com.android.emcocansniffer;
 
 import android.content.Context;
 import android.content.pm.PackageManager;
@@ -7,7 +7,7 @@ public class APKVersionCodeUtils {
     public static int getVersionCode(Context mContext) {
         int versionCode = 0;
         try {
-            //获取软件版本号，对应AndroidManifest.xml下android:versionCode
+
             versionCode = mContext.getPackageManager().
                     getPackageInfo(mContext.getPackageName(), 0).versionCode;
         } catch (PackageManager.NameNotFoundException e) {
@@ -16,12 +16,7 @@ public class APKVersionCodeUtils {
         return versionCode;
     }
 
-    /**
-     * 获取版本号名称
-     *
-     * @param context 上下文
-     * @return
-     */
+
     public static String getVerName(Context context) {
         String verName = "";
         try {

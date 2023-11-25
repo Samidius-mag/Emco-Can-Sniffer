@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!-- Другие элементы интерфейса здесь -->
+
+    <TextView
+        android:id="@+id/logTextView"
+        android:layout_width="306dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="16dp"
+        android:textSize="16sp" />
+
+    <!--<TextView
+        android:id="@+id/TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="14dp"
+        android:textSize="20sp" />-->
+
+    <TextView
+        android:id="@+id/TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:padding="16dp"
+        android:textSize="20sp" />
+
+    <!--<TextView
+        android:id="@+id/TextViewTwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75dp"
+        android:padding="16dp"
+        android:textSize="24sp" />-->
+
+    <TextView
+        android:id="@+id/canDataTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:padding="16dp"
+        android:textSize="20sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorGrey"/>
+
+    <com.android.emcocansniffer.MyEditText
+        android:id="@+id/display"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:gravity="top"
+        android:longClickable="false"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:editable="false"
+        android:maxLines="1000"
+        android:background="#00FFFFFF"
+        android:textSize="12dp" />
+
+</LinearLayout>
