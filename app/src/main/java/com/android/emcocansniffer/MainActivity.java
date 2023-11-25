@@ -75,10 +75,7 @@ public class MainActivity extends Activity {
 
 
                 }
-               /* public void onReceiveCanbusData2(int FF, int RTR, int DLC, int ID, int[] DATA) {
-                    mDisplay.setCanBusData(FF, RTR, DLC, ID, DATA);
-                    DataSearchHelper2.searchDataById2(ID, DATA, mTextViewTwo);
-                }*/
+             
             });
         }
 
