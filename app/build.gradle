@@ -5,11 +5,11 @@ android {
 
 
     defaultConfig {
-        applicationId "com.android.emcocansniffer"
+        applicationId "com.android.canbusdemo"
         minSdkVersion 18
         targetSdkVersion 22
         versionCode 5
-        versionName "EMCOCANSNIFFER v 1.0"
+        versionName "CanBusDemo V1.7.5"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -32,7 +32,6 @@ android {
             dirs 'libs'
         }
     }
-    ndkVersion '20.0.5594570'
 }
 
 dependencies {
