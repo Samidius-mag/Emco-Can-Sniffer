@@ -4,6 +4,7 @@
     <!--<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>-->
     <application
+        android:icon="@mipmap/icons"
         android:allowBackup="true"
         android:label="EMCOCANSNIFFER"
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen"
