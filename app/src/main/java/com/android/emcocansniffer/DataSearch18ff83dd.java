@@ -1,8 +1,8 @@
 package com.android.emcocansniffer;
 
 import android.widget.TextView;
-public class DataSearchHelper2 {
-    public static void searchDataById2(int id, int[] data, TextView textViewTwo) {
+public class DataSearch18ff83dd {
+    public static void searchDataById(int id, int[] data, TextView gpsTextView) {
         // Фильтр по ID
         if (id == 0x18FF83DD) {
             // Группировка данных по 2 знака
@@ -13,12 +13,12 @@ public class DataSearchHelper2 {
                     groupedData.append(hex.substring(j, j + 2)).append(" ");
                 }
             }
+
             // Получим второе сгруппированное значение и отобразим его на дисплее
             String[] splitData = groupedData.toString().split(" ");
             if (splitData.length > 1) {
-                int GroupedValueTwo = Integer.parseInt(splitData[7], 16); // SplitData[i], где [i] кроме 1 = актет 1++. (Для 2 - 3, для 3 - 5, 4 - 7 и т.д.)
-//                String decimalValue = Integer.toString(secondGroupedValue); // Преобразуем значение в десятичную систему счисления
-                textViewTwo.setText("Количество спутников: " + GroupedValueTwo);
+                int gpsGroupedValue = Integer.parseInt(splitData[3], 16); // SplitData[i], где [i] кроме 1 = актет 1++. (Для 2 - 3, для 3 - 5, 4 - 7 и т.д.)
+                gpsTextView.setText("Количество спутников: " + gpsGroupedValue);
             }
         }
     }
