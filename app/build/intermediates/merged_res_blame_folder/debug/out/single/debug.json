@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xhdpi_icons_round.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xhdpi/icons_round.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xxhdpi_icons.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xxhdpi/icons.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-hdpi_icons_foreground.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-hdpi/icons_foreground.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-hdpi_icons.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-hdpi/icons.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.android.emcocansniffer.app-pngs-0:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xxxhdpi_icons_round.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xxxhdpi/icons_round.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.android.emcocansniffer.app-pngs-0:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xxhdpi_icons_foreground.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xxhdpi/icons_foreground.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.android.emcocansniffer.app-pngs-0:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xxhdpi_icons_round.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xxhdpi/icons_round.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xhdpi_icons.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xhdpi/icons.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-mdpi_icons_round.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-mdpi/icons_round.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.android.emcocansniffer.app-pngs-0:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.android.emcocansniffer.app-pngs-0:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable_icons.png.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/drawable/icons.png"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xhdpi_icons_foreground.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xhdpi/icons_foreground.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-anydpi-v26_icons.xml.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-anydpi-v26/icons.xml"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-mdpi_icons_foreground.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-mdpi/icons_foreground.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-mdpi_icons.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-mdpi/icons.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-hdpi_icons_round.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-hdpi/icons_round.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.android.emcocansniffer.app-pngs-0:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xxxhdpi_icons.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xxxhdpi/icons.webp"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-anydpi-v26_icons_round.xml.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-anydpi-v26/icons_round.xml"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable_shape.xml.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/drawable/shape.xml"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.android.emcocansniffer.app-pngs-0:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.android.emcocansniffer.app-merged_res-5:/mipmap-xxxhdpi_icons_foreground.webp.flat",
+        "source": "com.android.emcocansniffer.app-main-7:/mipmap-xxxhdpi/icons_foreground.webp"
+    }
+]

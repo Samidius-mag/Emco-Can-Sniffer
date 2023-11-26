@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 18 min SDK version: x86_64",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2087224185
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\build\\.cxx\\Debug\\5l5k684x\\x86_64\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1452711194
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -229213327
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\build\\.cxx\\Debug\\5l5k684x\\x86_64\u0027",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 346558358
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\build\\.cxx\\Debug\\5l5k684x\\x86_64\u0027",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -635154526
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild @echo off\n\"C:\\\\Users\\\\voroninde\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\20.0.5594570\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dC:\\\\Users\\\\voroninde\\\\Documents\\\\GitHub\\\\Emco-Can-Sniffer\\\\app\\\\src\\\\main\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dC:\\\\Users\\\\voroninde\\\\Documents\\\\GitHub\\\\Emco-Can-Sniffer\\\\app\\\\src\\\\main\\\\jni\\\\Application.mk\" ^\n  \"APP_ABI\u003dx86_64\" ^\n  \"NDK_ALL_ABIS\u003dx86_64\" ^\n  \"NDK_DEBUG\u003d1\" ^\n  \"APP_PLATFORM\u003dandroid-18\" ^\n  \"NDK_OUT\u003dC:\\\\Users\\\\voroninde\\\\Documents\\\\GitHub\\\\Emco-Can-Sniffer\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5l5k684x/obj\" ^\n  \"NDK_LIBS_OUT\u003dC:\\\\Users\\\\voroninde\\\\Documents\\\\GitHub\\\\Emco-Can-Sniffer\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5l5k684x/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1185926784
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\voroninde\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\20.0.5594570\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dC:\\\\Users\\\\voroninde\\\\Documents\\\\GitHub\\\\Emco-Can-Sniffer\\\\app\\\\src\\\\main\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dC:\\\\Users\\\\voroninde\\\\Documents\\\\GitHub\\\\Emco-Can-Sniffer\\\\app\\\\src\\\\main\\\\jni\\\\Application.mk\" ^\n  \"APP_ABI\u003dx86_64\" ^\n  \"NDK_ALL_ABIS\u003dx86_64\" ^\n  \"NDK_DEBUG\u003d1\" ^\n  \"APP_PLATFORM\u003dandroid-18\" ^\n  \"NDK_OUT\u003dC:\\\\Users\\\\voroninde\\\\Documents\\\\GitHub\\\\Emco-Can-Sniffer\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5l5k684x/obj\" ^\n  \"NDK_LIBS_OUT\u003dC:\\\\Users\\\\voroninde\\\\Documents\\\\GitHub\\\\Emco-Can-Sniffer\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\5l5k684x/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1937112563
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 410605387
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Application.mk",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -694698790
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2019515343
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\voroninde\\Documents\\GitHub\\Emco-Can-Sniffer\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -701151763
+  }
+]

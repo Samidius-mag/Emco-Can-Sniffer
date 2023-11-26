@@ -71,7 +71,7 @@ public class MainActivity extends Activity {
                 @Override
                 public void onReceiveCanbusData(int FF, int RTR, int DLC, int ID, int[] DATA) {
                     mDisplay.setCanBusData(FF, RTR, DLC, ID, DATA);
-                    DataSearch18ff81cc.searchDataById(ID,DATA, weightTextView);
+                    DataSearch18ff82cc.searchDataById(ID,DATA, weightTextView);
                     DataSearch18ff83dd.searchDataById(ID,DATA, gpsTextView);
 
 

@@ -13,9 +13,6 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-    lintOptions {
-        abortOnError false
-    }
     buildTypes {
         release {
             minifyEnabled false
@@ -31,6 +28,10 @@ android {
         flatDir {
             dirs 'libs'
         }
+    }
+    namespace 'com.android.emcocansniffer'
+    lint {
+        abortOnError false
     }
 }
 

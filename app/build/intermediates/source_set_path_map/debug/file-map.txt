@@ -1,0 +1,8 @@
+com.android.emcocansniffer.app-pngs-0 C:\Users\voroninde\Documents\GitHub\Emco-Can-Sniffer\app\build\generated\res\pngs\debug
+com.android.emcocansniffer.app-resValues-1 C:\Users\voroninde\Documents\GitHub\Emco-Can-Sniffer\app\build\generated\res\resValues\debug
+com.android.emcocansniffer.app-rs-2 C:\Users\voroninde\Documents\GitHub\Emco-Can-Sniffer\app\build\generated\res\rs\debug
+com.android.emcocansniffer.app-mergeDebugResources-3 C:\Users\voroninde\Documents\GitHub\Emco-Can-Sniffer\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.android.emcocansniffer.app-mergeDebugResources-4 C:\Users\voroninde\Documents\GitHub\Emco-Can-Sniffer\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.android.emcocansniffer.app-merged_res-5 C:\Users\voroninde\Documents\GitHub\Emco-Can-Sniffer\app\build\intermediates\merged_res\debug
+com.android.emcocansniffer.app-debug-6 C:\Users\voroninde\Documents\GitHub\Emco-Can-Sniffer\app\src\debug\res
+com.android.emcocansniffer.app-main-7 C:\Users\voroninde\Documents\GitHub\Emco-Can-Sniffer\app\src\main\res

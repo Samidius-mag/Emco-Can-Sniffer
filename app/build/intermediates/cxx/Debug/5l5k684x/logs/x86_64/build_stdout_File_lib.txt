@@ -1,0 +1,2 @@
+[x86_64] Compile        : File_lib <= FileOperation.c
+[x86_64] SharedLibrary  : libFile_lib.so
